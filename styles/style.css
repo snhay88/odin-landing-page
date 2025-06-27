@@ -11,7 +11,7 @@ body {
     color: white;
     display: flex;
     flex-direction: column;
-    gap: 96px;
+    gap: 128px;
     padding-bottom: 96px;
 }
 
@@ -24,6 +24,7 @@ body {
 
 .header-1 h1{
     font-size: 24px;
+    color: #F9FAF8;
 }
 
 .header-links{
@@ -33,6 +34,7 @@ body {
     list-style: none;
     gap: 24px;
     font-size: 18px;
+    color: #E5E7EB;
 }
 
 .header-2{
@@ -48,9 +50,12 @@ body {
 .header-text-content h1 {
     font-size: 48px;
     font-weight: 900;
+    color: #F9FAF8;
+
 }
 .header-text-content p {
     font-size: 18px;
+    color: #E5E7EB;
 }
 .header-image{
     background-color: gray;
